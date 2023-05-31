@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1654602975 source:c:\users\manish\onedrive\desktop\package\package\resistor\main.cpp
+	<iostream>
+	"series.h"
+	"circuit.h"
+	"Resistor.h"
+
+1654140329 c:\users\manish\onedrive\desktop\package\package\resistor\series.h
+	"circuit.h"
+
+1654603112 c:\users\manish\onedrive\desktop\package\package\resistor\circuit.h
+	"Resistor.h"
+	"battery.h"
+	"series.h"
+
+1654600478 c:\users\manish\onedrive\desktop\package\package\resistor\resistor.h
+
+1654076368 c:\users\manish\onedrive\desktop\package\package\resistor\battery.h
+
+1654602941 source:c:\users\manish\onedrive\desktop\package\package\resistor\resistor.cpp
+	<iostream>
+	"series.h"
+
